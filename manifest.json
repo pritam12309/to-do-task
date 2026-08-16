@@ -2,7 +2,7 @@
   "name": "Tasks",
   "short_name": "Tasks",
   "description": "A simple, personal task list with priorities.",
-  "start_url": "./index.html",
+  "start_url": "/to-do-task/",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
